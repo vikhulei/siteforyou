@@ -1,1 +1,1 @@
-This site is a landing page for SiteForYou - web developing business.
+This is a landing page for offering web developing services.
