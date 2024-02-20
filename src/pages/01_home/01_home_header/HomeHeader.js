@@ -1,4 +1,4 @@
-import { Wrapper } from "./HomeHomeStyle";
+import { Wrapper } from "./HomeHeaderStyle";
 
 
 const HomeHeader = () => {

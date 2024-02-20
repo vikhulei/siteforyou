@@ -1,4 +1,4 @@
-import Home from "./pages/01_home/01_home_home/HomeHome";
+import Home from "./pages/01_home/01_home_header/HomeHeader";
 
 
 function App() {
