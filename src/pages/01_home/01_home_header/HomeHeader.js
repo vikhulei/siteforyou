@@ -4,7 +4,7 @@ import { Wrapper } from "./HomeHeaderStyle";
 const HomeHeader = () => {
     return (
         <Wrapper>
-            <h1>SITE FOR YOU</h1>
+            <h1>THIS IS HOME HEADER</h1>
         </Wrapper>
     )
 }
