@@ -1,7 +1,7 @@
 import { Wrapper } from "./HomeHomeStyle";
 
 
-const Home = () => {
+const HomeHeader = () => {
     return (
         <Wrapper>
             <h1>SITE FOR YOU</h1>
@@ -9,4 +9,4 @@ const Home = () => {
     )
 }
 
-export default Home
+export default HomeHeader
