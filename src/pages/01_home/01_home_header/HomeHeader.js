@@ -1,10 +1,11 @@
-import { Wrapper } from "./HomeHeaderStyle";
-
+import { Wrapper, MainImage } from "./HomeHeaderStyle";
+import homeImage from "../../../assets/01_01_home_a.jpg"
 
 const HomeHeader = () => {
     return (
         <Wrapper>
-            <h1>THIS IS HOME HEADER</h1>
+            <MainImage src={homeImage} />
+
         </Wrapper>
     )
 }

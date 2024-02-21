@@ -4,4 +4,10 @@ const Wrapper = styled.div`
     font-family: "Raleway";
 `
 
-export { Wrapper }
+const MainImage = styled.img`
+    width: 100vw;
+    height: 80vh;
+    object-fit: cover;
+`
+
+export { Wrapper, MainImage }
