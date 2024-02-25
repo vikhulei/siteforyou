@@ -1,5 +1,5 @@
 import { Wrapper, MainImage } from "./HomeHeaderStyle";
-import homeImage from "../../../assets/01_01_home_a.jpg"
+import homeImage from "../../../assets/01_01_home.jpg"
 
 const HomeHeader = () => {
     return (
