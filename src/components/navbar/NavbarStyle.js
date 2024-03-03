@@ -10,7 +10,7 @@ const Wrapper = styled.div`
 `
 
 const Logo = styled.img`
-    width: 150px;
+    width: 100px;
 `
 
 const NavbarWrapper = styled.div`
